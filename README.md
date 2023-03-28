@@ -1,2 +1,2 @@
 # Database-Encryption-using-Facial-Recognition
-Using facial-recognition python library to get facial-encodings which is then used to encrypt and decrypt a database. 
+This project aims to encrypt/decrypt a database using facial encodings.
